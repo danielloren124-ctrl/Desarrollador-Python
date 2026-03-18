@@ -59,7 +59,6 @@ Aquí algunos de los proyectos en los que he trabajado para demostrar mi experie
 ## 📫 Contacto
 
 *   **Correo:** [danielloren124@gmail.com](danielloren124@gmail.com)
-*   **Portafolio Web:** [enlace-a-tu-sitio-web] (opcional)
 
 ---
 
